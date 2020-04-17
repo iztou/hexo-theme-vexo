@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanm1ng/hexo-theme-vexo.git"
+    "url": "git+https://github.com/iztou/hexo-theme-vexo"
   },
   "keywords": [
     "hexo",
     "theme",
     "vexo"
   ],
-  "author": "yanm1ng",
+  "author": "iztou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yanm1ng/hexo-theme-vexo/issues"
+    "url": "https://github.com/iztou/hexo-theme-vexo"
   },
-  "homepage": "https://github.com/yanm1ng/hexo-theme-vexo",
+  "homepage": "https://github.com/iztou/hexo-theme-vexo",
   "devDependencies": {
     "ejs-lint": "^0.2.0",
     "eslint": "^3.14.0",
